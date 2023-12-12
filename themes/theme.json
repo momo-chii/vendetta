@@ -1,10 +1,9 @@
 {
-    "name": "Dark Vendetta",
-    "description": "A \"improved\" dark theme for Discord.",
+    "name": "Custom Vendetta",
+    "description": "A custom Vendetta theme",
     "authors": [
         {
             "name": "momochii__",
-            "id": "811581067940855888"
         }
     ],
     "spec": 2,
