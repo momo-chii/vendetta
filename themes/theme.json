@@ -1,6 +1,6 @@
 {
     "name": "Dark Vendetta",
-    "description": "A \"improved\" dark theme for Discord. Original theme by ignacio. Restored and maintained by Kitomanari.",
+    "description": "A \"improved\" dark theme for Discord.",
     "authors": [
         {
             "name": "ignacio",
@@ -78,5 +78,7 @@
         "PRIMARY_800": "#141414",
         "BRAND_NEW_500_ALPHA_20": "#007bff33",
         "PRIMARY_DARK_700_ALPHA_60": "#14141499"
+    } "background": {
+        "url": "https://cdn.discordapp.com/attachments/1121000274593591399/1142038067209850980/0CI9G4RK.jpg"
     }
 }
