@@ -1,9 +1,9 @@
 {
-    "name": "Custom Vendetta",
-    "description": "A custom Vendetta theme",
+    "name": "Vivid AMOLED",
+    "description": "A blue-purple AMOLED theme",
     "authors": [
         {
-            "name": "momochii__",
+            "name": "レオ-シ",
             "id": "619272429063372852"
         }
     ],
@@ -22,7 +22,7 @@
             "#dcddde"
         ],
         "INTERACTIVE_ACTIVE": [
-            "#dcddde"
+            "#007bff"
         ],
         "INTERACTIVE_MUTED": [
             "#6c757d"
