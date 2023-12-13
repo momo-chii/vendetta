@@ -46,7 +46,7 @@
             "#0c0c0c"
         ],
         "CHANNEL_ICON": [
-            "#b6b6b6"
+            "#003166"
         ],
         "CHANNEL_TEXT_AREA_PLACEHOLDER": [
             "#6c757d"
@@ -76,6 +76,8 @@
         "PRIMARY_DARK_700_ALPHA_60": "#14141499"
     },
     "background": {
+        "blur": 0.0,
         "url": "https://cdn.discordapp.com/attachments/1184239962024071333/1184242351619715102/bg.jpg"
+        "alpha": 0.5
     }
 }
