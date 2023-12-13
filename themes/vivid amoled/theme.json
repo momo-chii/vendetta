@@ -79,5 +79,9 @@
         "blur": 0.0,
         "url": "https://raw.githubusercontent.com/momo-chii/vendetta/main/themes/vivid%20amoled/backgrounds/bg.jpg"
         "alpha": 0.5
+    },
+    "plus":{
+        "version":"0",
+        "unreadBadgeColor": "SC_INTERACTIVE_ACTIVE"
     }
 }
