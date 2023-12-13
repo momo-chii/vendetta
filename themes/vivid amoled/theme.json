@@ -76,9 +76,9 @@
         "PRIMARY_DARK_700_ALPHA_60": "#14141499"
     },
     "background": {
-        "blur": 0.0,
+        "blur": 0,
         "url": "https://raw.githubusercontent.com/momo-chii/vendetta/main/themes/vivid%20amoled/backgrounds/bg.jpg",
-        "alpha": 0.5
+        "alpha": 0.1
     },
     "plus":{
         "version":"0",
