@@ -78,7 +78,7 @@
     "background": {
         "blur": 0,
         "url": "https://raw.githubusercontent.com/momo-chii/vendetta/main/themes/vivid%20amoled/backgrounds/bg.jpg",
-        "alpha": 0.1
+        "alpha": 1
     },
     "plus":{
         "version":"0",
